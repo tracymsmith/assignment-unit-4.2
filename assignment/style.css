@@ -1,0 +1,9 @@
+header {
+    background-color:rgb(212, 255, 193)
+}
+h2 {
+    background-color: pink; color:navy; font-weight: bold;
+}
+h3 {
+    background-color: pink; color:navy; font-style: italic;
+}
